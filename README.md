@@ -35,9 +35,9 @@ Saved bots may be found [here] (https://github.com/zhen-zhicheng/q-learning-ches
 
 ## Authors
 
-Dominique Pizzie  
-[@DomPizzie](https://twitter.com/dompizzie)
-
+Benny Cao  
+Yun Kyaw
+Zhicheng Zhen
 
 ## Acknowledgments
 * [Getting Started with Chess Data](https://colab.research.google.com/github/natesolon/fastpages/blob/master/_notebooks/2021-12-13-Getting-Started-with-Chess-Data.ipynb#scrollTo=0kjrWwXtvtmZ)
