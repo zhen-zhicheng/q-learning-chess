@@ -28,10 +28,10 @@ Saved bots may be found [here] (https://github.com/zhen-zhicheng/q-learning-ches
 * Required bots are mentioned in the .ipnyb
 
 ## Links to the Different Chess Engines
-[Policy Iteration] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Policy%20Iteration.ipynb)
-[Table-based Q-Learning] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Table%20Q%20Learning.ipynb)
-[Deep Q-Learning] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Deep%20Q%20Learning.ipynb)
-[Policy Iteration with End-Game Data] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Policy%20Iteration%20with%20Data.ipynb)
+* [Policy Iteration] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Policy%20Iteration.ipynb)
+* [Table-based Q-Learning] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Table%20Q%20Learning.ipynb)
+* [Deep Q-Learning] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Deep%20Q%20Learning.ipynb)
+* [Policy Iteration with End-Game Data] (https://github.com/zhen-zhicheng/q-learning-chess/blob/main/Policy%20Iteration%20with%20Data.ipynb)
 
 ## Authors
 
